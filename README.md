@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### Portpolio 
+### Portpolio :point_down:
 <https://www.notion.so/Jeong-Sollip-766aafe8381747f2817ac954ae6aaa93?pvs=4>
 
 <!--
