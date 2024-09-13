@@ -24,13 +24,23 @@ Here are some ideas to get you started:
 
 #### 📚 Project
 2020 [Aircraft Price Prediction](https://github.com/jeongsl/aircraft-price-prediction)
+
 2021 [Credit Card Fraud Detection](https://github.com/jeongsl/credit-card-fraud-detection)
+
 2021 [Food Demanding Forecasting](https://github.com/jeongsl/food-demand-forecasting)
+
 2021 [Kiosk Experience Zone Location in Seoul](https://github.com/jeongsl/kiosk-experience-zone-location)
+
 2021 [Unmanned Civil Service Issuing Machine Location in Jungnang-gu](https://github.com/jeongsl/unmanned-civil-service-issuing-machine)
+
 2021 [Public Wifi Location in Jungnang-gu](https://github.com/jeongsl/public-wifi-location)
+
 2022 Job Care Recommendation Algorithm
+
 2022 A Vulnerable Area for Senior Citizens in Jungnang-gu
+
 2022 Illustration Image Classification
+
 2022 Korean Sign Language Classification
+
 2023 Impact of Local Currency Policy on Small Businesses
