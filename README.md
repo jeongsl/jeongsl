@@ -35,3 +35,4 @@ Here are some ideas to get you started:
 - Illustration Image Classification (2022)
 - Korean Sign Language Classification (2022)
 - Impact of Local Currency Policy on Small Businesses (2023)
+- Credit Card Customer Segmentation (2025) :trophy:
