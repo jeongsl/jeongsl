@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - [Unmanned Civil Service Issuing Machine Location in Jungnang-gu](https://github.com/jeongsl/unmanned-civil-service-issuing-machine) (2021)
 - [Public Wifi Location in Jungnang-gu](https://github.com/jeongsl/public-wifi-location) (2021)
 - [Job Care Recommendation Algorithm](https://github.com/jeongsl/job-care-recommendation) (2022)
-- A Vulnerable Area for Senior Citizens in Jungnang-gu (2022)
+- [A Vulnerable Area for Senior Citizens in Jungnang-gu](https://github.com/jeongsl/vulnerable-area-for-senior-citizens) (2022)
 - Illustration Image Classification (2022)
 - Korean Sign Language Classification (2022)
 - Impact of Local Currency Policy on Small Businesses (2023)
