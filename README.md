@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 - Illustration Image Classification (2022)
 - Korean Sign Language Classification (2022)
 - [Impact of Local Currency Policy on Small Businesses](https://github.com/jeongsl/local-currency-small-businesses) (2023)
-- Credit Card Customer Segmentation (2025) :trophy::two:
+- [Credit Card Customer Segmentation](https://github.com/jeongsl/credit-card-customer-segmentation) (2025) :trophy::two:
