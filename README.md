@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-## 💻 Skills
+## 💻 Skills & Tools
 
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/sas-339AF0?style=for-the-badge&logo=sas&logoColor=white"/> <img src="https://img.shields.io/badge/spss-1572B6?style=for-the-badge&logo=spss&logoColor=white"/> <img src="https://img.shields.io/badge/Qgis-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Rstudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white"/> 
 
 
 
