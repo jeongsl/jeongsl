@@ -1,5 +1,5 @@
 ## 😄 Portfolio 
-[Notion Portfolio](https://www.notion.so/Jeong-Sollip-766aafe8381747f2817ac954ae6aaa93?pvs=4)
+[![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Jeong-Sollip-766aafe8381747f2817ac954ae6aaa93?pvs=4)
 
 <!--
 **jeongsl/jeongsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
