@@ -9,23 +9,23 @@
 <div>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sas-339AF0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/spss-1572B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/sas-006DCF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/spss-0530AD?style=for-the-badge"/>
 </div>
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-EC1C24?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Oracle-f80000?style=for-the-badge"/>
 </div>
 <div>
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/css-264de4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/javscript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/figma-874FFF?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qgis-589632?style=for-the-badge&logo=qgis&logoColor=white"/>  
 </div>
 </picture>
