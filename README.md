@@ -26,7 +26,8 @@
 </div>
 <div>
   <img src="https://img.shields.io/badge/figma-874FFF?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qgis-589632?style=for-the-badge&logo=qgis&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Qgis-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-4E79A7?style=for-the-badge&logoColor=white"/>  
 </div>
 </picture>
 
@@ -47,8 +48,9 @@
 - [Unmanned Civil Service Issuing Machine Location in Jungnang-gu](https://github.com/jeongsl/unmanned-civil-service-issuing-machine) (2021)
 - [Public Wifi Location in Jungnang-gu](https://github.com/jeongsl/public-wifi-location) (2021)
 - [Job Care Recommendation Algorithm](https://github.com/jeongsl/job-care-recommendation) (2022)
-- [A Vulnerable Area for Senior Citizens in Jungnang-gu](https://github.com/jeongsl/vulnerable-area-for-senior-citizens) (2022)
-- Illustration Image Classification (2022)
+- [A Vulnerable Area for Senior Citizens in Jungnang-gu](https://github.com/jeongsl/vulnerable-area-for-senior-citizens) (2022) <!-- - Illustration Image Classification (2022) -->
 - Korean Sign Language Classification (2022)
 - [Impact of Local Currency Policy on Small Businesses](https://github.com/jeongsl/local-currency-small-businesses) (2023)
 - [Credit Card Customer Segmentation](https://github.com/jeongsl/credit-card-customer-segmentation) (2025) :trophy::two:
+- Healthcare Services via AI Refrigerators (2026)
+- Smart Home Space Experience Service for North American Newlyweds (2026)
