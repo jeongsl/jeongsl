@@ -51,6 +51,6 @@
 - [A Vulnerable Area for Senior Citizens in Jungnang-gu](https://github.com/jeongsl/vulnerable-area-for-senior-citizens) (2022) <!-- - Illustration Image Classification (2022) -->
 - Korean Sign Language Classification (2022)
 - [Impact of Local Currency Policy on Small Businesses](https://github.com/jeongsl/local-currency-small-businesses) (2023)
-- [Credit Card Customer Segmentation](https://github.com/jeongsl/credit-card-customer-segmentation) (2025) :trophy::two:
-- Healthcare Services via AI Refrigerators (2026)
-- Smart Home Space Experience Service for North American Newlyweds (2026)
+- [Credit Card Customer Segmentation](https://github.com/jeongsl/credit-card-customer-segmentation) (2025) 🏆🥈
+- Healthcare Services via AI Refrigerators (2026) 🏆🥇
+- Smart Home Space Experience Service for North American Newlyweds (2026) 🏆🥈
