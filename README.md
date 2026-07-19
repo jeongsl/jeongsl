@@ -5,8 +5,22 @@
 <br>
 
 ## 💻 Skills & Tools
+  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+  [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
 
-<picture>
+  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+  [![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)
+
+  [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+  [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+  [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+  [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
+
+  [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+  [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
+  
+<!-- <picture>
 <div>
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> 
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
@@ -30,7 +44,7 @@
   <img src="https://img.shields.io/badge/Qgis-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-4E79A7?style=for-the-badge&logoColor=white"/>  
 </div>
-</picture>
+</picture> -->
 
 <!-- <picture>
   <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
@@ -55,3 +69,4 @@
 - [Credit Card Customer Segmentation](https://github.com/jeongsl/credit-card-customer-segmentation) (2025) 🏆🥈
 - Healthcare Services via AI Refrigerators (2026) 🏆🥇
 - Smart Home Space Experience Service for North American Newlyweds (2026) 🏆🥈
+- Barrier-Free Sign Language Conversation and Home Appliance Control Service (2026) 🏆🥉
