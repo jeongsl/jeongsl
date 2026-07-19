@@ -68,5 +68,5 @@
 - [Impact of Local Currency Policy on Small Businesses](https://github.com/jeongsl/local-currency-small-businesses) (2023)
 - [Credit Card Customer Segmentation](https://github.com/jeongsl/credit-card-customer-segmentation) (2025) 🏆🥈
 - Healthcare Services via AI Refrigerators (2026) 🏆🥇
-- Smart Home Space Experience Service for North American Newlyweds (2026) 🏆🥈
+- [Smart Home Space Experience Service for North American Newlyweds](https://github.com/jeongsl/smart-home-space-experience/tree/main) (2026) 🏆🥈
 - Barrier-Free Sign Language Conversation and Home Appliance Control Service (2026) 🏆🥉
